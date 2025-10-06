@@ -5,8 +5,8 @@ All sketches are implemented in **p5.js**, exploring algorithms that simulate na
 
 ## 🔗 Related Resources
 - [The Nature of Code (Book)](https://natureofcode.com/)
-- [Run Sketches from My p5.js Web Collection](https://editor.p5js.org/yourusername/collections/yourcollectionid)
-- [My Notion notes](https://panoramic-gateway-605.notion.site/The-Nature-of-Code-Notes-2844b925a02880f3baeae2c7bd7226d4)
+- [Run sketches from my p5.js web collection](https://editor.p5js.org/yourusername/collections/yourcollectionid)
+- [My notion notes](https://panoramic-gateway-605.notion.site/The-Nature-of-Code-Notes-2844b925a02880f3baeae2c7bd7226d4)
 
 ## ⚙️ Tools
 - [p5.js Web Editor](https://editor.p5js.org/)
