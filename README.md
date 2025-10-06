@@ -1,11 +1,7 @@
 # Learning Algorithms from The Nature Of Code
 
-This repository contains my self-paced learning progress following **Daniel Shiffman’s “The Nature of Code”**.  
+This repository is to document my self-paced learning progress following **Daniel Shiffman’s “The Nature of Code”**.  
 All sketches are implemented in **p5.js**, exploring algorithms that simulate natural systems — such as motion, forces, genetic algorithms, and fractals.
-
-## 🧭 Progress
-✅ Chapters 1–9 completed (in progress)  
-📘 Each folder corresponds to a chapter and exercise from the book.
 
 ## 🔗 Related Resources
 - [The Nature of Code (Book)](https://natureofcode.com/)
